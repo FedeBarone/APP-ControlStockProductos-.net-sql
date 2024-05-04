@@ -151,7 +151,7 @@ namespace Interfaz
 
             }
 
-            if (txtDescripcion.Text.Length < 3 || !Regex.IsMatch(txtDescripcion.Text, "^[A-Za-z]{3}[A-Za-z\\s\\S]*$"))
+            if (txtDescripcion.Text.Length < 3 || !Regex.IsMatch(txtDescripcion.Text, "^[A-Za-z]{2}[A-Za-z\\s\\S]*$"))
             {
                 bandera = true;
 
@@ -211,7 +211,7 @@ namespace Interfaz
         /// <param name="e"></param>
         private void txtDescripcion_TextChanged(object sender, EventArgs e)
         {
-            if (txtDescripcion.Text.Length >= 3 && Regex.IsMatch(txtDescripcion.Text, "^[A-Za-z]{3}[A-Za-z\\s\\S]*$"))
+            if (txtDescripcion.Text.Length >= 3 && Regex.IsMatch(txtDescripcion.Text, "^[A-Za-z]{2}[A-Za-z\\s\\S]*$"))
             {
                 errorProvider.SetError(txtDescripcion, null);
             }
@@ -325,7 +325,7 @@ namespace Interfaz
             catch (Exception ex)
             {
 
-                pbxAlta.Load("https://static.wikia.nocookie.net/saintseiya/images/0/0e/Mime_de_benetnasch_eta.jpg/revision/latest/thumbnail/width/360/height/360?cb=20181209234225&path-prefix=es");
+                pbxAlta.Load("https://cdn.icon-icons.com/icons2/3957/PNG/96/bag_sign_no_plastic_icon_251296.png");
             }
         }
 

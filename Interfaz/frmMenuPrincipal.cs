@@ -80,7 +80,7 @@ namespace Interfaz
             catch (Exception ex)
             {
 
-                pbxImagenArticulos.Load("https://static.wikia.nocookie.net/saintseiya/images/0/0e/Mime_de_benetnasch_eta.jpg/revision/latest/thumbnail/width/360/height/360?cb=20181209234225&path-prefix=es");
+                pbxImagenArticulos.Load("https://cdn.icon-icons.com/icons2/3957/PNG/96/bag_sign_no_plastic_icon_251296.png");
             }
         }
 
@@ -197,20 +197,6 @@ namespace Interfaz
                 MessageBox.Show("Por favor, seleccione el criterio para filtrar.");
                 bandera = true;
             }
-            //if (cboCampo.SelectedItem.ToString() == "Número")
-            //{
-            //    if (string.IsNullOrEmpty(txtFiltroAvanzado.Text))
-            //    {
-            //        MessageBox.Show("Debes cargar el filtro para numéricos...");
-            //        return true;
-            //    }
-            //    if (!(Validador.soloNumeros(txtFiltroAvanzado.Text)))
-            //    {
-            //        MessageBox.Show("Solo nros para filtrar por un campo numérico...");
-            //        return true;
-            //    }
-
-            //}
 
             return bandera;
         }
@@ -279,6 +265,24 @@ namespace Interfaz
                 cboCriterio.Items.Add("Comienza con");
                 cboCriterio.Items.Add("Termina con");
                 cboCriterio.Items.Add("Contiene");
+            }
+            else
+            {
+                if(opcion == "A.Nombre")
+                {
+                    cboCriterio.Items.Clear();
+                    cboCriterio.Items.Add("Comienza con");
+                    cboCriterio.Items.Add("Termina con");
+                    cboCriterio.Items.Add("Contiene");
+
+                }
+                else
+                {
+                    cboCriterio.Items.Clear();
+                    cboCriterio.Items.Add("Comienza con");
+                    cboCriterio.Items.Add("Termina con");
+                    cboCriterio.Items.Add("Contiene");
+                }
             }
         }
 
