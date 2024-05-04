@@ -1,0 +1,6 @@
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Dominio\bin\Debug\Dominio.dll
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Dominio\bin\Debug\Dominio.pdb
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Dominio\obj\Debug\Dominio.dll
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Dominio\obj\Debug\Dominio.pdb

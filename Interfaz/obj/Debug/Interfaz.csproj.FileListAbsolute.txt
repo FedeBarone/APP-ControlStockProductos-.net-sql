@@ -1,0 +1,16 @@
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\bin\Debug\Interfaz.exe.config
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\bin\Debug\Interfaz.exe
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\bin\Debug\Interfaz.pdb
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\obj\Debug\Interfaz.csproj.AssemblyReference.cache
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\obj\Debug\Interfaz.frmMenuPrincipal.resources
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\obj\Debug\Interfaz.Properties.Resources.resources
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\obj\Debug\Interfaz.csproj.GenerateResource.cache
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\obj\Debug\Interfaz.csproj.CoreCompileInputs.cache
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\obj\Debug\Interfaz.exe
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\obj\Debug\Interfaz.pdb
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\obj\Debug\Interfaz.frmAlta.resources
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\bin\Debug\Dominio.dll
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\bin\Debug\Negocio.dll
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\bin\Debug\Dominio.pdb
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\bin\Debug\Negocio.pdb
+C:\Users\FedeA\OneDrive\Escritorio\TPFinalNivel2_Barone\TPFinalNivel2_Barone\Interfaz\obj\Debug\Interfaz.csproj.CopyComplete

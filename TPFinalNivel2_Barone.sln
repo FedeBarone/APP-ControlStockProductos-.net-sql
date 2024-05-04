@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaz", "Interfaz\Interfaz.csproj", "{63B2B532-AC42-4518-9A95-67A670F3D0EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dominio", "Dominio\Dominio.csproj", "{642126AF-A650-4B1D-9E13-0D13C7C57E37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.csproj", "{2FCBBBB9-4718-4336-802D-9AD2792CB981}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63B2B532-AC42-4518-9A95-67A670F3D0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B2B532-AC42-4518-9A95-67A670F3D0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B2B532-AC42-4518-9A95-67A670F3D0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B2B532-AC42-4518-9A95-67A670F3D0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{642126AF-A650-4B1D-9E13-0D13C7C57E37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{642126AF-A650-4B1D-9E13-0D13C7C57E37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{642126AF-A650-4B1D-9E13-0D13C7C57E37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{642126AF-A650-4B1D-9E13-0D13C7C57E37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2FCBBBB9-4718-4336-802D-9AD2792CB981}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FCBBBB9-4718-4336-802D-9AD2792CB981}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2FCBBBB9-4718-4336-802D-9AD2792CB981}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2FCBBBB9-4718-4336-802D-9AD2792CB981}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA1938BA-77BE-440E-BEF8-099222D0FF52}
+	EndGlobalSection
+EndGlobal
